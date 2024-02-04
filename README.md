@@ -11,7 +11,8 @@
 <a href="https://card-deslizante.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview-1.png)
+![preview](https://github.com/daniel-portela/sliding-card/assets/110783805/021e0c4a-bbeb-4007-867b-1e173f40cb0a)
+
 
 <b>Estrutura HTML5:</b>
 
